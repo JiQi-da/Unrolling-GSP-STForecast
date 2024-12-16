@@ -1,0 +1,36 @@
+2024-12-16 15:02:30,766 - #################################################
+2024-12-16 15:02:30,767 - pretrained path: None
+2024-12-16 15:02:30,767 - learning k hop: 2
+2024-12-16 15:02:30,767 - batch size: 12
+2024-12-16 15:02:30,767 - learning rate: 0.001
+2024-12-16 15:02:30,767 - Loss function: MSE
+2024-12-16 15:02:30,767 - Total parameters: 11125
+2024-12-16 15:02:30,767 - device: cuda:1
+2024-12-16 15:02:30,768 - PARAMTER SETTINGS:
+2024-12-16 15:02:30,768 - ADMM info: {'ADMM_iters': 24, 'CG_iters': 3, 'PGD_iters': 3, 'mu_u_init': 3, 'mu_d1_init': 3, 'mu_d2_init': 3}
+2024-12-16 15:02:30,768 - graph info: nodes 307, edges 680
+2024-12-16 15:02:30,768 - --------BEGIN TRAINING PROCESS------------
+2024-12-16 15:02:47,347 - #################################################
+2024-12-16 15:02:47,347 - pretrained path: None
+2024-12-16 15:02:47,347 - learning k hop: 2
+2024-12-16 15:02:47,348 - batch size: 8
+2024-12-16 15:02:47,348 - learning rate: 0.001
+2024-12-16 15:02:47,348 - Loss function: MSE
+2024-12-16 15:02:47,349 - Total parameters: 11125
+2024-12-16 15:02:47,349 - device: cuda:1
+2024-12-16 15:02:47,349 - PARAMTER SETTINGS:
+2024-12-16 15:02:47,349 - ADMM info: {'ADMM_iters': 24, 'CG_iters': 3, 'PGD_iters': 3, 'mu_u_init': 3, 'mu_d1_init': 3, 'mu_d2_init': 3}
+2024-12-16 15:02:47,350 - graph info: nodes 307, edges 680
+2024-12-16 15:02:47,350 - --------BEGIN TRAINING PROCESS------------
+2024-12-16 20:19:47,177 - #################################################
+2024-12-16 20:19:47,177 - pretrained path: None
+2024-12-16 20:19:47,178 - learning k hop: 2
+2024-12-16 20:19:47,178 - batch size: 8
+2024-12-16 20:19:47,178 - learning rate: 0.001
+2024-12-16 20:19:47,178 - Loss function: MSE
+2024-12-16 20:19:47,178 - Total parameters: 11125
+2024-12-16 20:19:47,178 - device: cuda:0
+2024-12-16 20:19:47,179 - PARAMTER SETTINGS:
+2024-12-16 20:19:47,179 - ADMM info: {'ADMM_iters': 24, 'CG_iters': 3, 'PGD_iters': 3, 'mu_u_init': 3, 'mu_d1_init': 3, 'mu_d2_init': 3}
+2024-12-16 20:19:47,179 - graph info: nodes 307, edges 680
+2024-12-16 20:19:47,179 - --------BEGIN TRAINING PROCESS------------
